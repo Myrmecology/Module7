@@ -1,5 +1,5 @@
 
-# DOCTORREAD
+# README generator
 
 ## Description 
 This is a README generator that allows developers to quickly generate a customizable README template by answering a series of prompts. It reduces the time and effort required to create detailed documentation, ensuring that all essential sections, such as installation instructions, usage, contributing guidelines, and licensing, are included. Ideal for both beginners and experienced developers, this tool allows you to focus on your code while maintaining clear and consistent documentation for your project. This project is very much open source to all developers out there. 
